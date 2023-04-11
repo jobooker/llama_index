@@ -2,7 +2,7 @@
 
 format:
 	black .
-
+ 
 lint:
 	mypy .
 	black . --check
